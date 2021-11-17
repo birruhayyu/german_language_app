@@ -1,5 +1,5 @@
 Instructions:
-1. Copy all the files on this folder on your code editor.
+1. Clone the repository on your local computer.
 2. Open your terminal.
 3. Run file 'home.py'.
 4. Follow the instructions.
