@@ -1,7 +1,7 @@
 Instructions:
-1. Copy all the files on this folder on your PyCharm project.
-2. Open your terminal in PyCharm.
-3. Type 'python home.py' to run the program.
+1. Copy all the files on this folder on your code editor.
+2. Open your terminal.
+3. Run file 'home.py'.
 4. Follow the instructions.
 
 
